@@ -31,7 +31,7 @@ Cria a branch develop e muda para ela.
 11. git branch
 Mostra as branches existentes.
 
-12. echo "<p>Alteração na branch develop</p>" >> index.html
+12. echo "<p>Henry Oliveira</p>" >> index.html
 Adiciona um novo parágrafo ao arquivo HTML.
 
 13. git add index.html
@@ -43,7 +43,7 @@ Salva a alteração feita na branch develop.
 15. git log --oneline
 Mostra o histórico dos commits de forma resumida.
 
-16. git remote add origin https://github.com/henryxs/atividade-git
+16. git remote add origin https://github.com/henryqsx/atividade-git
 Conecta o projeto local ao repositório do GitHub.
 
 17. git push -u origin develop
